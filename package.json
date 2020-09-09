@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/mohak92/nature-tours#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
